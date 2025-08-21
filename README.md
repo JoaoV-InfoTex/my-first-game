@@ -6,8 +6,8 @@ O objetivo é desviar dos obstáculos e acumular o maior score possível.
 ---
 
 ## 🕹️ Gameplay
-- O jogador controla um quadrado verde que corre automaticamente em **3 faixas horizontais**.  
-- Obstáculos coloridos aparecem de forma aleatória e aumentam de velocidade com o tempo.  
+- O jogador controla Cypher um fugitivo que corre automaticamente em **3 faixas horizontais**.  
+- Policiais aparecem de forma aleatória e aumentam de velocidade com o tempo.  
 - A cada **10 segundos**, a dificuldade sobe (maior velocidade e menor tempo de spawn).  
 - Se o jogador colidir com um obstáculo: **Game Over**.  
 
