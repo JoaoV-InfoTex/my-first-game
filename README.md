@@ -14,8 +14,8 @@ O objetivo é desviar dos obstáculos e acumular o maior score possível.
 ---
 
 ## 🎯 Controles
-- **W / S** ou **↑ / ↓** → Trocar de faixa  
-- **Espaço / Enter** → Reiniciar após Game Over  
+- **W / S** ou **A / D** → Trocar de faixa  
+- **R / Enter** → Reiniciar após Game Over  
 
 ---
 
