@@ -51,3 +51,7 @@ Este projeto é de uso livre para fins de estudo e aprendizado.
 Sinta-se à vontade para modificar e melhorar.  
 
 ---
+
+## LINKS
+Vídeo no Youtube: [(https://www.youtube.com/watch?v=7RdaDx6ZaLc)](https://www.youtube.com/watch?v=7RdaDx6ZaLc)
+Site do App Game Kit: https://www.appgamekit.com
